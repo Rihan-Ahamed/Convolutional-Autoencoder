@@ -10,12 +10,29 @@ To develop a convolutional autoencoder for image denoising application.
 ## DESIGN STEPS
 
 ### STEP 1:
+Load MNIST dataset and convert to tensors.
 
 ### STEP 2:
+Apply Gaussian noise to images for training.
 
 ### STEP 3:
+Design encoder-decoder architecture for reconstruction.
 
-Write your own steps
+### STEP 4:
+Use MSE loss to measure reconstruction quality.
+
+### STEP 5:
+Train autoencoder using Adam optimizer efficiently.
+
+### STEP 6:
+Evaluate model on noisy and clean images.
+
+### STEP 7:
+Visualize results comparing original, noisy, denoised versions.
+
+### STEP 8:
+Improve performance by tuning hyperparameters carefully.
+
 
 ## PROGRAM
 ### Name: RIHAN AHAMED.S
